@@ -1,5 +1,9 @@
 # 💳 Midas Transaction Processing System
 
+> ⚡ Simulates a real-world backend system used in financial transaction processing
+
+---
+
 ## 🚀 Overview
 A real-time transaction processing system built using **Spring Boot and Apache Kafka**.  
 This project simulates a backend system used in financial services to process streaming transaction data, validate balances, and update accounts.
@@ -49,31 +53,9 @@ Kafka → Listener → Business Logic → Database → REST API
 ### 🔹 Database Persistence
 - Stores user and transaction data using JPA  
 
+---
 
-### 🔹 REST API
+## 🔹 REST API
 
 ```http
 GET /balance?userId=1
-{
-  "amount": 1326.98
-}
-
-
-
-## 📊 Sample Output
-
-```bash
-WALDORF BALANCE: 456.58
-
-
-
-
-👤 Author
-
-Md Fardeen
-B.Tech Biotechnology → Transitioning into Data & Backend Engineering
-
-
-
-
-
