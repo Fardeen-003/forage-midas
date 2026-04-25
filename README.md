@@ -65,7 +65,7 @@ WALDORF BALANCE: 456.58
 
 
 
-### 📚 What I Learned
+## 📚 What I Learned
 
 Built an event-driven system using Kafka
 
@@ -85,12 +85,12 @@ Debugged distributed system behavior using logs
 
 
 
-##👤 Author
+## 👤 Author
 
 Fardeen
 B.Tech Biotechnology → Transitioning into Data & Backend Engineering
 
-
+---
 
 
 
