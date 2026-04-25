@@ -59,3 +59,8 @@ Kafka → Listener → Business Logic → Database → REST API
 
 ```http
 GET /balance?userId=1
+
+```json
+{
+  "amount": 1326.98
+}
