@@ -60,12 +60,30 @@ Kafka → Listener → Business Logic → Database → REST API
 WALDORF BALANCE: 456.58
 
 
+
+
+
+
+
+
 📚 What I Learned
+
 Built an event-driven system using Kafka
+
 Integrated external APIs into backend workflows
+
 Designed REST endpoints for real-time data access
+
 Managed relational data using JPA and H2 database
+
 Debugged distributed system behavior using logs
+
+
+
+
+
+
+
 
 
 👤 Author
