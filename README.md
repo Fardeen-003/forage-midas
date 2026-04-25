@@ -49,38 +49,31 @@ Kafka → Listener → Business Logic → Database → REST API
 ### 🔹 Database Persistence
 - Stores user and transaction data using JPA  
 
+
 ### 🔹 REST API
 
 ```http
 GET /balance?userId=1
-
-```json
 {
   "amount": 1326.98
 }
 
 
 
-📊 Sample Output
+## 📊 Sample Output
 
+```bash
 WALDORF BALANCE: 456.58
 
 
 
 
+👤 Author
 
----
+Md Fardeen
+B.Tech Biotechnology → Transitioning into Data & Backend Engineering
 
-# 🚀 Final verdict
 
-👉 Your version: **7/10**  
-👉 After this fix: **9/10 (recruiter-ready)**
 
----
 
-# 🔥 One last power move (optional but huge)
 
-Add this line at top:
-
-```markdown
-> ⚡ Simulates a real-world backend system used in financial transaction processing
