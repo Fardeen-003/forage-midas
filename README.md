@@ -60,5 +60,7 @@ GET /balance?userId=1
 }
 
 
-Sample Output
+
+📊 Sample Output
+
 WALDORF BALANCE: 456.58
