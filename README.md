@@ -55,12 +55,25 @@ Kafka → Listener → Business Logic → Database → REST API
 
 ---
 
-## 🔹 REST API
+📊 Sample Output
 
-```http
-GET /balance?userId=1
+WALDORF BALANCE: 456.58
 
-```json
-{
-  "amount": 1326.98
-}
+
+📚 What I Learned
+Built an event-driven system using Kafka
+Integrated external APIs into backend workflows
+Designed REST endpoints for real-time data access
+Managed relational data using JPA and H2 database
+Debugged distributed system behavior using logs
+
+
+👤 Author
+
+Fardeen
+B.Tech Biotechnology → Transitioning into Data & Backend Engineering
+
+
+
+
+
