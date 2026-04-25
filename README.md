@@ -59,8 +59,7 @@ Kafka → Listener → Business Logic → Database → REST API
 
 WALDORF BALANCE: 456.58
 
-
-
+---
 
 
 
@@ -79,7 +78,7 @@ Managed relational data using JPA and H2 database
 Debugged distributed system behavior using logs
 
 
-
+---
 
 
 
